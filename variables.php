@@ -1,6 +1,6 @@
 <?php
 
-	$company_name = "Guitar Magazine Inc";
+	$company_name = "Guitar Magazine LLC";
 	$tagline = "Teaching guitar since 2001!";
 
 ?>
